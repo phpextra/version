@@ -1,6 +1,6 @@
 {
     "name": "phpextra/version",
-    "description": "Version managment class",
+    "description": "Version management class",
     "autoload": {
         "psr-0": {
             "PHPExtra\\Version\\": "./src"
