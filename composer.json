@@ -1,0 +1,23 @@
+{
+    "name": "phpextra/version",
+    "description": "Version managment class",
+    "autoload": {
+        "psr-0": {
+            "PHPExtra\\Version\\": "./src"
+        }
+    },
+    "require": {
+        "herrera-io/version": "~1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~3.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacek Kobus",
+            "email": "kobus.jacek@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
