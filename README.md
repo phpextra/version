@@ -1,4 +1,5 @@
 #Version library
+[![Build Status](https://travis-ci.org/phpextra/version.svg?branch=master)](https://travis-ci.org/phpextra/version)
 
 This library is a wrapper for [herrera-io/php-version](https://github.com/herrera-io/php-version).
 
