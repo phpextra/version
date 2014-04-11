@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "34d8d980971f1770df429f791370e737",
+    "hash": "487f27a0c0df7206abe3fe6dabe5c0dd",
     "packages": [
         {
             "name": "herrera-io/version",
@@ -56,7 +56,9 @@
                 "version"
             ],
             "time": "2014-01-27 18:15:52"
-        },
+        }
+    ],
+    "packages-dev": [
         {
             "name": "phpunit/php-code-coverage",
             "version": "1.2.x-dev",
@@ -481,9 +483,6 @@
             "homepage": "http://symfony.com",
             "time": "2014-03-26 11:51:10"
         }
-    ],
-    "packages-dev": [
-
     ],
     "aliases": [
 
