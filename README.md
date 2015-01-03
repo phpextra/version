@@ -4,6 +4,7 @@
 This library is a wrapper for [herrera-io/php-version](https://github.com/herrera-io/php-version).
 
 ##Usage
+    namespace PHPExtra\Version;
 
     $version1 = Version::fromString('1.0.0');
     $version2 = Version::fromString('1.0.0-rc1');
