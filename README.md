@@ -3,6 +3,18 @@
 
 This library is a wrapper for [herrera-io/php-version](https://github.com/herrera-io/php-version).
 
+## Installation
+
+`Version` can be installed via [Composer](https://github.com/composer/composer):
+
+```json
+{
+    "require": {
+        "phpextra/version": "~1.0"
+    }
+}
+```
+
 ##Usage
     namespace PHPExtra\Version;
 
